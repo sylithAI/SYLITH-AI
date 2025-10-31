@@ -363,6 +363,6 @@ SYLITH is a trading tool and does not provide financial advice. Cryptocurrency t
 
 **Built with ❤️ by the SYLITH Team**
 
-[Website](https://sylith.io) • [Documentation](https://docs.sylith.io) • [Twitter](https://twitter.com/sylithai) • [Discord](https://discord.gg/sylith)
+[Website](https://sylith.io) • [Documentation](https://docs.sylith.io) • [Twitter](https://twitter.com/sylith_ai) 
 
 </div>
