@@ -1,7 +1,7 @@
 # 🚀 SYLITH - AI-Powered Solana Trading Terminal
 
 <div align="center">
-  <img src="assets/logo.png" alt="SYLITH Logo" width="220">
+  <img src="assets/logo.png" alt="SYLITH Logo" width="330">
 
 
 **The Next Generation AI Trading Bot for Solana & Pump.fun**
