@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SYLITH Logo](https://via.placeholder.com/800x200/6366f1/ffffff?text=SYLITH)
+![SYLITH Logo](assets/logo.png)
 
 **The Next Generation AI Trading Bot for Solana & Pump.fun**
 
