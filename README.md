@@ -334,7 +334,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌐 Community & Support
+## 🌐 Community 
 
 - **X**: [@SylithAI](https://twitter.com/sylith_ai)
 - **Documentation**: [docs.sylith.io](https://docs.sylith.io)
